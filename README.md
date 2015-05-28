@@ -1,2 +1,2 @@
-# slimsons
+# Slimsons Club
 Healthy Weightloss Club
